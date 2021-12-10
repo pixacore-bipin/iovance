@@ -1,0 +1,7 @@
+markdown: redcarpet
+baseurl: "/iovance/"
+
+# Exclude from processing.
+# The following items will not be processed.
+exclude:
+  - README.md
